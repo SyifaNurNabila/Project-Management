@@ -1,1 +1,2 @@
-# Jaya-Future
+# JayaFuture
+Syifa Nur Nabila
