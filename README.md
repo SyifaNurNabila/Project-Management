@@ -85,7 +85,7 @@ File Figma hanya di Notion; dilarang disalin/distribusi tanpa izin.
 
 ## Link Terkait
 
-Notion Project:[https://www.notion.so/JayaFuture-Full-Project-Planning-27c25409047b80f499ccc77988887f89?source=copy_link]
+Notion Project: https://www.notion.so/JayaFuture-Full-Project-Planning-27c25409047b80f499ccc77988887f89?source=copy_link
 
 GitHub Repository: https://github.com/SyifaNurNabila/Project-Management
 
