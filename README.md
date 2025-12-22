@@ -1,5 +1,5 @@
 # JayaFuture 
-
+by: Syifa Nur Nabila
 ## Overview
 JayaFuture adalah prototype platform career center untuk mahasiswa & alumni UPJ. 
 
