@@ -62,11 +62,10 @@ npm install
 cp .env.example .env
 php artisan key:generate
 php artisan serve
-
+```
 Backend produksi (AI CV Generator & hosting) tidak termasuk.
 
-
-Struktur Folder Penting
+## Struktur Folder Penting
 
 /docs → Dokumentasi proyek (PDF & gambar)
 
@@ -74,16 +73,19 @@ Struktur Folder Penting
 
 /tests → Unit & feature tests
 
-Kontribusi
+## Kontribusi
 
-Proyek ini pekerjaan individu untuk mata kuliah Project Management IT. Pertanyaan/feedback via email atau Notion proyek.
+Proyek ini merupakan proyek mata kuliah Project Management IT.
+Pertanyaan/feedback via email atau Notion proyek.
 
-Lisensi
+## Lisensi
 
-Hak cipta © 2025 Syifa Nur Nabila. Semua hak dilindungi. File Figma hanya di Notion; dilarang disalin/distribusi tanpa izin.
+Hak cipta © 2025 Syifa Nur Nabila. Semua hak dilindungi.
+File Figma hanya di Notion; dilarang disalin/distribusi tanpa izin.
 
-Link Terkait
+## Link Terkait
 
-Notion Project: [Link Notion JayaFuture]
+Notion Project:[https://www.notion.so/JayaFuture-Full-Project-Planning-27c25409047b80f499ccc77988887f89?source=copy_link]
 
 GitHub Repository: https://github.com/SyifaNurNabila/Project-Management
+
